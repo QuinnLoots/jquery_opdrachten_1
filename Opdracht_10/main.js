@@ -1,5 +1,6 @@
 // Write your solution here
-$(".to_hide, #text_3").hide();
+$("#text_3").addClass("to_hide");
+$(".to_hide").hide();
 
 
 
